@@ -8,7 +8,7 @@
 
 #ifndef _ASN1ENCODABLE_H
 #define	_ASN1ENCODABLE_H
-
+//
 //using System.IO;
 
 namespace org {
